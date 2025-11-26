@@ -57,8 +57,8 @@ Print the number of jobs scheduled and total profit obtained.
 ## Program:
 ```
 /*
-Developed by: SANJAI L
-RegisterNumber: 212223230184
+Developed by: saiguruchandran g
+RegisterNumber: 212223240143
 import java.util.*;
 
 public class JobScheduling {
