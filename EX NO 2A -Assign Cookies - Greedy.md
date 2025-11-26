@@ -28,8 +28,8 @@ Print the total number of content (satisfied) children i and stop the program.
 ## Program:
 ```
 /*
-Developed by: SANJAI L
-RegisterNumber: 212223230184
+Developed by: saiguruchandran g
+RegisterNumber: 212223240143
 */
 
 import java.util.*;
