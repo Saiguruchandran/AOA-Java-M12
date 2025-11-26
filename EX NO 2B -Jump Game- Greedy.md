@@ -42,8 +42,8 @@ Print the minimum number of jumps to reach the last index (or -1 if unreachable)
 ## Program:
 ```
 /*
-Developed by: SANJAI L
-RegisterNumber: 212223230184
+Developed by: saiguruchandran g
+RegisterNumber: 212223240143
 */
 import java.util.Scanner;
 
